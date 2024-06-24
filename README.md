@@ -1,6 +1,6 @@
 # WarThreads
 
-![Скриншот игры](image.png)
+![Скриншот игры](/images/image.png)
 
 ## Обзор
 
